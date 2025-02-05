@@ -1,8 +1,4 @@
-<strong> **DO NOT DISTRIBUTE OR PUBLICLY POST SOLUTIONS TO THESE LABS. MAKE ALL FORKS OF THIS REPOSITORY WITH SOLUTION CODE PRIVATE. PLEASE REFER TO THE STUDENT CODE OF CONDUCT AND ETHICAL EXPECTATIONS FOR COLLEGE OF INFORMATION TECHNOLOGY STUDENTS FOR SPECIFICS. ** </strong>
-
-# WESTERN GOVERNOR UNIVERSITY 
-## Karim Barhmed #012155231
-## D424- Software Engineering Capstone 
+## Karim Barhmed 
 Welcome to the VacationHere application! This project demonstrates the development of a vacation management application that allows users to manage their vacations and excursions. The application supports the addition, modification, and deletion of vacations and excursions, as well as setting reminders for upcoming trips.
 
 
@@ -47,7 +43,6 @@ Here, you can save, edit, delete, or set alerts for each excursion.
 ## Android Version
 The signed APK is targeted for Android 13 (API level 33), and it has been tested to work on devices running this version and above.
 
-## Repository Link
-https://gitlab.com/wgu-gitlab-environment/student-repos/kbarhme/d424-software-engineering-capstone/-/tree/working_branch
+
 
 
